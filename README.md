@@ -4,13 +4,13 @@ A collection of articles, books and presentations references.
 ## Functional Programming
 
  * [A General Theory of Reactivity](https://www.gitbook.com/book/kriskowal/gtor/details)  
- Kris Kowal, 2016 // WiP
+ Kris Kowal, 2016 :construction:
  * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)  
- Brian Lonsdorf, 2016 // WiP
+ Brian Lonsdorf, 2016 :construction:
  * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)  
- Kyle Simpson, 2016 // WiP
+ Kyle Simpson, 2016 :construction:
  * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)  
- hemanth.hm, 2016 // WiP
+ hemanth.hm, 2016 :construction:
  * [Functional Programming Patterns in F#](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin)  
  Scott Wlaschin, January 2015
  * [OO vs FP](http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)  
