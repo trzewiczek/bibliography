@@ -3,8 +3,6 @@ A collection of articles, books and presentations references.
 
 ## Functional Programming
 
- * [A General Theory of Reactivity](https://www.gitbook.com/book/kriskowal/gtor/details)  
- Kris Kowal, 2016 :construction:
  * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)  
  Brian Lonsdorf, 2016 :construction:
  * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)  
@@ -18,6 +16,12 @@ A collection of articles, books and presentations references.
  * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)  
  Aditya Bhargava, May 2013
 
+## Reactive Programming
+
+ * [Seven Operators to Get Started with RxJS](https://www.infoq.com/articles/rxjs-get-started-operators)  
+  Vincent Tunru, April 2017
+ * [A General Theory of Reactivity](https://www.gitbook.com/book/kriskowal/gtor/details)  
+ Kris Kowal, 2016 :construction:
 
 ## Functional async
 
